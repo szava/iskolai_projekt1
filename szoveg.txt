@@ -1,0 +1,3 @@
+Ez a projet egy kozosen szerkesztett weboldal lesz.
+A cél hogy megtanuljuk a Git és a Trello hasznalatat.
+Az elso fejlesztesi feladat a szovegek modositasa.
